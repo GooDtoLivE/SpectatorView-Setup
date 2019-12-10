@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Test_Spectator_Scenes/SpectatorView.HoloLens.unity
-    guid: 652661d7e1f151846b461089a55a654c
+    path: Assets/_Test_Spectator_Scenes/SpectatorView.iOS.unity
+    guid: 96dcef964baf99d4a820b581b4c91eb1
   m_configObjects: {}
